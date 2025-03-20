@@ -6219,7 +6219,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 218.44) (xy 118.11 220.98)
+			(xy 91.44 264.16) (xy 91.44 266.7)
 		)
 		(stroke
 			(width 0)
@@ -6309,7 +6309,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 195.58) (xy 118.11 196.85)
+			(xy 91.44 241.3) (xy 91.44 242.57)
 		)
 		(stroke
 			(width 0)
@@ -6699,7 +6699,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 207.01) (xy 118.11 208.28)
+			(xy 91.44 252.73) (xy 91.44 254)
 		)
 		(stroke
 			(width 0)
@@ -9427,7 +9427,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 118.11 195.58 90)
+		(at 91.44 241.3 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9437,7 +9437,7 @@
 		)
 		(uuid "cb53212b-e63c-4751-a3b6-1d4c45fb85a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.11 189.0872 90)
+			(at 91.44 234.8072 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10146,7 +10146,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-2012SURC")
-		(at 118.11 213.36 90)
+		(at 91.44 259.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10155,7 +10155,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f4d1851-7a87-4727-abf0-12501fd22d43")
 		(property "Reference" "LED3"
-			(at 120.65 212.8499 90)
+			(at 93.98 258.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10164,7 +10164,7 @@
 			)
 		)
 		(property "Value" "XL-2012SURC"
-			(at 120.65 215.3899 90)
+			(at 93.98 261.1099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10173,7 +10173,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0805-RD_RED"
-			(at 125.73 213.36 0)
+			(at 99.06 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10182,7 +10182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 213.36 0)
+			(at 91.44 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10191,7 +10191,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 213.36 0)
+			(at 91.44 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10200,7 +10200,7 @@
 			)
 		)
 		(property "LCSC Part" "C965812"
-			(at 128.27 213.36 0)
+			(at 101.6 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14793,7 +14793,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 118.11 220.98 0)
+		(at 91.44 266.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14802,7 +14802,7 @@
 		(fields_autoplaced yes)
 		(uuid "91e1aab2-0864-4bf3-a954-8e87b12663d8")
 		(property "Reference" "#PWR048"
-			(at 118.11 227.33 0)
+			(at 91.44 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14811,7 +14811,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.11 226.06 0)
+			(at 91.44 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14819,7 +14819,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 220.98 0)
+			(at 91.44 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14828,7 +14828,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 220.98 0)
+			(at 91.44 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14837,7 +14837,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 118.11 220.98 0)
+			(at 91.44 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17598,7 +17598,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC0805FR-0775RL")
-		(at 118.11 201.93 90)
+		(at 91.44 247.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17607,7 +17607,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb684fcd-d98f-4924-98b4-74f078807a61")
 		(property "Reference" "R2"
-			(at 120.65 200.6599 90)
+			(at 93.98 246.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17616,7 +17616,7 @@
 			)
 		)
 		(property "Value" "RC0805FR-0775RL"
-			(at 120.65 203.1999 90)
+			(at 93.98 248.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17625,7 +17625,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0805"
-			(at 125.73 201.93 0)
+			(at 99.06 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17634,7 +17634,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_75R-75R0-1_C141697.html"
-			(at 128.27 201.93 0)
+			(at 101.6 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17643,7 +17643,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 201.93 0)
+			(at 91.44 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17652,7 +17652,7 @@
 			)
 		)
 		(property "LCSC Part" "C141697"
-			(at 130.81 201.93 0)
+			(at 104.14 247.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)

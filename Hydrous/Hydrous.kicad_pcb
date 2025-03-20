@@ -15448,7 +15448,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Vin(12v)"
+	(gr_text "Vin(12V)"
 		(at 74.676 43.561 0)
 		(layer "B.SilkS")
 		(uuid "9da26496-48c0-4cae-ad59-1e97111a73be")

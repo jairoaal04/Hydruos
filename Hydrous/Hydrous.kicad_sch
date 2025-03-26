@@ -5936,7 +5936,7 @@
 	)
 	(text "SENSORES\n"
 		(exclude_from_sim no)
-		(at 347.218 203.2 0)
+		(at 348.234 189.992 0)
 		(effects
 			(font
 				(face "KiCad Font")
@@ -6031,7 +6031,7 @@
 		(uuid "25d3899a-e9a5-423c-a3e6-57e339cd49d2")
 	)
 	(junction
-		(at 295.91 40.64)
+		(at 317.5 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e3f6236-1d46-472b-a7ba-b666849314bf")
@@ -6043,7 +6043,7 @@
 		(uuid "3fa038b3-1fcb-4953-a73b-8d50c23b54f9")
 	)
 	(junction
-		(at 298.45 116.84)
+		(at 320.04 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c6c13fc-b353-4350-8089-d0459661e540")
@@ -6061,19 +6061,19 @@
 		(uuid "54bf243a-42db-403d-929f-253001a17c1a")
 	)
 	(junction
-		(at 353.06 41.91)
+		(at 354.33 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58e3a647-58fc-41a7-b9f8-2e814a74c01f")
 	)
 	(junction
-		(at 59.69 262.89)
+		(at 59.69 264.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b8fff0a-7b0f-4951-bc85-9bf8b2f6b471")
 	)
 	(junction
-		(at 326.39 156.21)
+		(at 356.87 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c4fc8ea-37a6-45b6-8598-651ec01f0c42")
@@ -6097,7 +6097,7 @@
 		(uuid "96bdc090-3b59-470e-a352-95b19c61f199")
 	)
 	(junction
-		(at 355.6 115.57)
+		(at 356.87 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "988270f7-bedb-475c-abe0-c55df37f97f4")
@@ -6121,13 +6121,13 @@
 		(uuid "d5d512fa-f19f-4543-bfa7-066b593f62e9")
 	)
 	(junction
-		(at 295.91 77.47)
+		(at 318.77 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7d49cc2-b168-4849-b8bb-65d3f5cd901d")
 	)
 	(junction
-		(at 354.33 78.74)
+		(at 356.87 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dadc37c3-911b-4e6a-8cc7-59d50b63600a")
@@ -6171,18 +6171,8 @@
 		(uuid "21d26815-79e6-453b-84f9-2680357273a1")
 	)
 	(no_connect
-		(at 358.14 219.71)
+		(at 364.49 208.28)
 		(uuid "9301a341-ec96-41ec-a65f-5eb437b693b8")
-	)
-	(wire
-		(pts
-			(xy 378.46 69.85) (xy 375.92 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00e96e44-86ec-4b1f-bec3-eae01104e94d")
 	)
 	(wire
 		(pts
@@ -6216,16 +6206,6 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 115.57) (xy 353.06 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "062efce3-97a3-4285-8043-0304bc7a72fa")
-	)
-	(wire
-		(pts
 			(xy 194.31 245.11) (xy 196.85 245.11)
 		)
 		(stroke
@@ -6246,16 +6226,6 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 41.91) (xy 355.6 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a9dc4e2-5e8f-4659-aa3a-b50093af5615")
-	)
-	(wire
-		(pts
 			(xy 69.85 59.69) (xy 69.85 64.77)
 		)
 		(stroke
@@ -6263,16 +6233,6 @@
 			(type default)
 		)
 		(uuid "0aa577ed-ace0-4c82-b534-27d01b1185d2")
-	)
-	(wire
-		(pts
-			(xy 294.64 38.1) (xy 294.64 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bfaa5a6-a0c6-4522-ae20-49ec7a7413f2")
 	)
 	(wire
 		(pts
@@ -6286,7 +6246,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 106.68) (xy 374.65 107.95)
+			(xy 374.65 107.95) (xy 374.65 109.22)
 		)
 		(stroke
 			(width 0)
@@ -6296,7 +6256,7 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 127) (xy 355.6 128.27)
+			(xy 356.87 129.54) (xy 356.87 130.81)
 		)
 		(stroke
 			(width 0)
@@ -6306,7 +6266,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 114.3) (xy 317.5 111.76)
+			(xy 337.82 115.57) (xy 337.82 113.03)
 		)
 		(stroke
 			(width 0)
@@ -6316,7 +6276,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 87.63) (xy 316.23 86.36)
+			(xy 336.55 88.9) (xy 336.55 87.63)
 		)
 		(stroke
 			(width 0)
@@ -6346,16 +6306,6 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 109.22) (xy 318.77 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13ba2619-f156-4ace-9680-ec4ea2d89865")
-	)
-	(wire
-		(pts
 			(xy 66.04 135.89) (xy 90.17 135.89)
 		)
 		(stroke
@@ -6366,7 +6316,7 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 142.24) (xy 346.71 143.51)
+			(xy 375.92 143.51) (xy 375.92 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6376,7 +6326,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 43.18) (xy 311.15 43.18)
+			(xy 328.93 44.45) (xy 331.47 44.45)
 		)
 		(stroke
 			(width 0)
@@ -6396,7 +6346,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 48.26) (xy 316.23 49.53)
+			(xy 336.55 49.53) (xy 336.55 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6416,7 +6366,7 @@
 	)
 	(wire
 		(pts
-			(xy 354.33 78.74) (xy 354.33 80.01)
+			(xy 356.87 81.28) (xy 356.87 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6426,7 +6376,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 46.99) (xy 90.17 46.99)
+			(xy 83.82 46.99) (xy 85.09 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6436,7 +6386,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 222.25) (xy 325.12 222.25)
+			(xy 330.2 210.82) (xy 331.47 210.82)
 		)
 		(stroke
 			(width 0)
@@ -6446,7 +6396,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 76.2) (xy 316.23 73.66)
+			(xy 336.55 77.47) (xy 336.55 74.93)
 		)
 		(stroke
 			(width 0)
@@ -6466,16 +6416,6 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 156.21) (xy 325.12 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f57fb8a-7cf4-43e8-8c05-95757f79ba18")
-	)
-	(wire
-		(pts
 			(xy 267.97 236.22) (xy 271.78 236.22)
 		)
 		(stroke
@@ -6483,16 +6423,6 @@
 			(type default)
 		)
 		(uuid "1f5c7a46-cdc2-4dfd-9cb3-7004cb7d2dec")
-	)
-	(wire
-		(pts
-			(xy 299.72 77.47) (xy 299.72 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20701a5c-c6c3-434d-9ae5-7fd7e4c25fcb")
 	)
 	(wire
 		(pts
@@ -6516,13 +6446,13 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 270.51) (xy 27.94 273.05)
+			(xy 317.5 43.18) (xy 317.5 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "235a99b6-9bfc-43a6-ab40-8ab162fb15fa")
+		(uuid "2437e697-18f7-43b5-8079-4d1b37beeddf")
 	)
 	(wire
 		(pts
@@ -6586,7 +6516,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 162.56) (xy 347.98 165.1)
+			(xy 375.92 163.83) (xy 375.92 165.1)
 		)
 		(stroke
 			(width 0)
@@ -6596,7 +6526,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 111.76) (xy 321.31 111.76)
+			(xy 337.82 113.03) (xy 341.63 113.03)
 		)
 		(stroke
 			(width 0)
@@ -6636,7 +6566,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 167.64) (xy 326.39 170.18)
+			(xy 356.87 170.18) (xy 356.87 171.45)
 		)
 		(stroke
 			(width 0)
@@ -6656,7 +6586,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 88.9) (xy 295.91 90.17)
+			(xy 318.77 93.98) (xy 318.77 95.25)
 		)
 		(stroke
 			(width 0)
@@ -6686,7 +6616,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 157.48) (xy 342.9 157.48)
+			(xy 368.3 158.75) (xy 370.84 158.75)
 		)
 		(stroke
 			(width 0)
@@ -6726,7 +6656,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 274.32) (xy 59.69 275.59)
+			(xy 59.69 275.59) (xy 59.69 276.86)
 		)
 		(stroke
 			(width 0)
@@ -6746,7 +6676,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 38.1) (xy 316.23 34.29)
+			(xy 336.55 38.1) (xy 336.55 39.37)
 		)
 		(stroke
 			(width 0)
@@ -6766,7 +6696,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 224.79) (xy 323.85 224.79)
+			(xy 331.47 213.36) (xy 330.2 213.36)
 		)
 		(stroke
 			(width 0)
@@ -6806,13 +6736,23 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 156.21) (xy 326.39 156.21)
+			(xy 358.14 158.75) (xy 356.87 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "43ce816e-07d3-4bce-8898-080f0124e922")
+	)
+	(wire
+		(pts
+			(xy 354.33 55.88) (xy 354.33 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43f014cc-2ffa-4dd6-87d9-cc4b8ae45e53")
 	)
 	(wire
 		(pts
@@ -6826,7 +6766,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 30.48) (xy 316.23 31.75)
+			(xy 337.82 34.29) (xy 337.82 35.56)
 		)
 		(stroke
 			(width 0)
@@ -6853,16 +6793,6 @@
 			(type default)
 		)
 		(uuid "46c89e34-21c8-4d8b-8c4d-1cb60eb0494b")
-	)
-	(wire
-		(pts
-			(xy 374.65 107.95) (xy 378.46 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "477fd6d2-b31e-46c4-a53d-53657a26b1dd")
 	)
 	(wire
 		(pts
@@ -6966,7 +6896,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 241.3) (xy 26.67 241.3)
+			(xy 31.75 241.3) (xy 27.94 241.3)
 		)
 		(stroke
 			(width 0)
@@ -6983,16 +6913,6 @@
 			(type default)
 		)
 		(uuid "5274ab14-06f5-422f-b7b6-e80a8ee52b99")
-	)
-	(wire
-		(pts
-			(xy 358.14 115.57) (xy 358.14 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54ea20b3-627e-433f-ba0d-c255c2ae2e92")
 	)
 	(wire
 		(pts
@@ -7046,7 +6966,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 40.64) (xy 295.91 41.91)
+			(xy 317.5 44.45) (xy 317.5 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7076,7 +6996,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 233.68) (xy 50.8 233.68)
+			(xy 58.42 233.68) (xy 57.15 233.68)
 		)
 		(stroke
 			(width 0)
@@ -7086,17 +7006,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 110.49) (xy 378.46 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6195c810-91ee-4476-a5ad-66a1d431a8ff")
-	)
-	(wire
-		(pts
-			(xy 351.79 40.64) (xy 351.79 41.91)
+			(xy 354.33 43.18) (xy 354.33 44.45)
 		)
 		(stroke
 			(width 0)
@@ -7106,7 +7016,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 262.89) (xy 53.34 262.89)
+			(xy 59.69 264.16) (xy 58.42 264.16)
 		)
 		(stroke
 			(width 0)
@@ -7146,17 +7056,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 242.57) (xy 26.67 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "642ace48-e9d1-4f80-9c3d-e08dd0579dcc")
-	)
-	(wire
-		(pts
-			(xy 60.96 262.89) (xy 59.69 262.89)
+			(xy 60.96 264.16) (xy 59.69 264.16)
 		)
 		(stroke
 			(width 0)
@@ -7186,23 +7086,13 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 39.37) (xy 373.38 35.56)
+			(xy 373.38 39.37) (xy 373.38 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "69758b0a-27b6-42a5-9b5b-230e636bb471")
-	)
-	(wire
-		(pts
-			(xy 346.71 143.51) (xy 347.98 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ac2e282-2a6d-4d1e-8d77-f231169db69d")
 	)
 	(wire
 		(pts
@@ -7236,16 +7126,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 261.62) (xy 29.21 262.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6dd3589d-e355-4a0b-a1b6-a105247f463a")
-	)
-	(wire
-		(pts
 			(xy 217.17 236.22) (xy 222.25 236.22)
 		)
 		(stroke
@@ -7266,16 +7146,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 233.68) (xy 50.8 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71ecb7a2-1ff0-4fb5-8e84-6044c4660ef9")
-	)
-	(wire
-		(pts
 			(xy 271.78 255.27) (xy 271.78 256.54)
 		)
 		(stroke
@@ -7283,16 +7153,6 @@
 			(type default)
 		)
 		(uuid "729fe8a3-3bde-47fe-ac9c-0b8b2ab2f95f")
-	)
-	(wire
-		(pts
-			(xy 295.91 52.07) (xy 295.91 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "732cd3b1-b801-4a2a-afa7-7627930b56af")
 	)
 	(wire
 		(pts
@@ -7336,7 +7196,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 41.91) (xy 353.06 43.18)
+			(xy 354.33 44.45) (xy 354.33 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7356,7 +7216,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 222.25) (xy 353.06 223.52)
+			(xy 359.41 210.82) (xy 359.41 212.09)
 		)
 		(stroke
 			(width 0)
@@ -7366,7 +7226,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 77.47) (xy 295.91 78.74)
+			(xy 318.77 82.55) (xy 318.77 83.82)
 		)
 		(stroke
 			(width 0)
@@ -7376,7 +7236,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 40.64) (xy 298.45 40.64)
+			(xy 317.5 44.45) (xy 318.77 44.45)
 		)
 		(stroke
 			(width 0)
@@ -7396,23 +7256,13 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 115.57) (xy 295.91 116.84)
+			(xy 320.04 119.38) (xy 320.04 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7ceffeb6-a610-4cf0-936b-9b4bbe9c1cf9")
-	)
-	(wire
-		(pts
-			(xy 318.77 31.75) (xy 316.23 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cfc139c-2197-42fb-9380-d8fea5810ec7")
 	)
 	(wire
 		(pts
@@ -7423,16 +7273,6 @@
 			(type default)
 		)
 		(uuid "7d1c478c-d50c-43b8-9983-69765d6fdb33")
-	)
-	(wire
-		(pts
-			(xy 300.99 116.84) (xy 300.99 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e0c0b1f-a3fa-49ad-be3a-63db20ff8765")
 	)
 	(wire
 		(pts
@@ -7456,7 +7296,17 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 128.27) (xy 298.45 130.81)
+			(xy 317.5 55.88) (xy 317.5 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81fed14d-94e2-48f8-aaf6-5fb4c76f19cc")
+	)
+	(wire
+		(pts
+			(xy 320.04 132.08) (xy 320.04 134.62)
 		)
 		(stroke
 			(width 0)
@@ -7496,7 +7346,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 77.47) (xy 299.72 77.47)
+			(xy 318.77 82.55) (xy 320.04 82.55)
 		)
 		(stroke
 			(width 0)
@@ -7526,7 +7376,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 270.51) (xy 27.94 270.51)
+			(xy 33.02 270.51) (xy 21.59 270.51)
 		)
 		(stroke
 			(width 0)
@@ -7536,7 +7386,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 74.93) (xy 294.64 77.47)
+			(xy 318.77 81.28) (xy 318.77 82.55)
 		)
 		(stroke
 			(width 0)
@@ -7586,7 +7436,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 78.74) (xy 354.33 78.74)
+			(xy 358.14 81.28) (xy 356.87 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7606,7 +7456,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 35.56) (xy 90.17 36.83)
+			(xy 85.09 35.56) (xy 85.09 36.83)
 		)
 		(stroke
 			(width 0)
@@ -7616,7 +7466,7 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 116.84) (xy 298.45 118.11)
+			(xy 320.04 120.65) (xy 320.04 121.92)
 		)
 		(stroke
 			(width 0)
@@ -7626,7 +7476,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 222.25) (xy 358.14 222.25)
+			(xy 359.41 210.82) (xy 364.49 210.82)
 		)
 		(stroke
 			(width 0)
@@ -7646,7 +7496,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 113.03) (xy 374.65 110.49)
+			(xy 374.65 113.03) (xy 374.65 111.76)
 		)
 		(stroke
 			(width 0)
@@ -7676,7 +7526,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 219.71) (xy 323.85 215.9)
+			(xy 330.2 208.28) (xy 330.2 204.47)
 		)
 		(stroke
 			(width 0)
@@ -7756,16 +7606,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 35.56) (xy 377.19 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a02bbfcb-57af-4099-9934-042b58368c4a")
-	)
-	(wire
-		(pts
 			(xy 114.3 104.14) (xy 114.3 93.98)
 		)
 		(stroke
@@ -7773,16 +7613,6 @@
 			(type default)
 		)
 		(uuid "a06d6578-adab-48e5-a42d-2431112b6c5c")
-	)
-	(wire
-		(pts
-			(xy 298.45 40.64) (xy 298.45 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0eb3361-3978-4295-bec2-17d140633710")
 	)
 	(wire
 		(pts
@@ -7816,16 +7646,6 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 116.84) (xy 295.91 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5764167-d60d-4551-b466-50e3156065d6")
-	)
-	(wire
-		(pts
 			(xy 115.57 124.46) (xy 115.57 133.35)
 		)
 		(stroke
@@ -7836,17 +7656,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 44.45) (xy 125.73 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a70e9435-c61c-40c2-990d-70271807336d")
-	)
-	(wire
-		(pts
-			(xy 355.6 217.17) (xy 358.14 217.17)
+			(xy 363.22 205.74) (xy 364.49 205.74)
 		)
 		(stroke
 			(width 0)
@@ -7856,7 +7666,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 262.89) (xy 29.21 262.89)
+			(xy 33.02 262.89) (xy 31.75 262.89)
 		)
 		(stroke
 			(width 0)
@@ -7886,17 +7696,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 264.16) (xy 24.13 265.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae15cec1-8991-4b5a-b413-69e9a796596c")
-	)
-	(wire
-		(pts
-			(xy 354.33 90.17) (xy 354.33 91.44)
+			(xy 356.87 92.71) (xy 356.87 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7936,7 +7736,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 257.81) (xy 58.42 260.35)
+			(xy 58.42 259.08) (xy 58.42 261.62)
 		)
 		(stroke
 			(width 0)
@@ -8016,7 +7816,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 260.35) (xy 60.96 260.35)
+			(xy 58.42 261.62) (xy 60.96 261.62)
 		)
 		(stroke
 			(width 0)
@@ -8056,7 +7856,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 43.18) (xy 53.34 46.99)
+			(xy 54.61 45.72) (xy 54.61 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8073,16 +7873,6 @@
 			(type default)
 		)
 		(uuid "ba09e4c5-e580-40c0-89d5-14261cd56a0a")
-	)
-	(wire
-		(pts
-			(xy 351.79 41.91) (xy 353.06 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba76cecc-ee40-4766-a804-3ca36e7c0dc6")
 	)
 	(wire
 		(pts
@@ -8106,7 +7896,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 265.43) (xy 24.13 265.43)
+			(xy 33.02 265.43) (xy 31.75 265.43)
 		)
 		(stroke
 			(width 0)
@@ -8116,33 +7906,13 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 72.39) (xy 378.46 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be7151e9-aa6b-4a6c-aa77-bc7a35e4348f")
-	)
-	(wire
-		(pts
-			(xy 353.06 77.47) (xy 353.06 78.74)
+			(xy 356.87 80.01) (xy 356.87 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bf4a84be-52f4-49dc-9ac6-84795bf2ed48")
-	)
-	(wire
-		(pts
-			(xy 373.38 33.02) (xy 377.19 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfe6deb7-0f33-4f61-97a4-38748af54462")
 	)
 	(wire
 		(pts
@@ -8166,7 +7936,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 107.95) (xy 318.77 109.22)
+			(xy 341.63 109.22) (xy 341.63 110.49)
 		)
 		(stroke
 			(width 0)
@@ -8196,7 +7966,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 219.71) (xy 323.85 219.71)
+			(xy 331.47 208.28) (xy 330.2 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8216,7 +7986,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 238.76) (xy 31.75 238.76)
+			(xy 29.21 238.76) (xy 31.75 238.76)
 		)
 		(stroke
 			(width 0)
@@ -8236,7 +8006,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 115.57) (xy 355.6 115.57)
+			(xy 358.14 118.11) (xy 356.87 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8286,7 +8056,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 31.75) (xy 373.38 33.02)
+			(xy 373.38 34.29) (xy 373.38 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8306,7 +8076,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 73.66) (xy 318.77 73.66)
+			(xy 336.55 74.93) (xy 339.09 74.93)
 		)
 		(stroke
 			(width 0)
@@ -8316,17 +8086,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 262.89) (xy 53.34 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1421d66-582e-42f4-be77-0829ac1aa0b9")
-	)
-	(wire
-		(pts
-			(xy 300.99 116.84) (xy 298.45 116.84)
+			(xy 321.31 120.65) (xy 320.04 120.65)
 		)
 		(stroke
 			(width 0)
@@ -8336,17 +8096,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 40.64) (xy 295.91 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d21fea44-a3fe-4db1-ad7c-eb2f5f64a6f3")
-	)
-	(wire
-		(pts
-			(xy 311.15 119.38) (xy 312.42 119.38)
+			(xy 331.47 120.65) (xy 332.74 120.65)
 		)
 		(stroke
 			(width 0)
@@ -8376,7 +8126,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 34.29) (xy 318.77 34.29)
+			(xy 336.55 38.1) (xy 337.82 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8386,7 +8136,7 @@
 	)
 	(wire
 		(pts
-			(xy 356.87 224.79) (xy 356.87 227.33)
+			(xy 363.22 213.36) (xy 363.22 215.9)
 		)
 		(stroke
 			(width 0)
@@ -8426,7 +8176,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 152.4) (xy 325.12 156.21)
+			(xy 356.87 154.94) (xy 356.87 158.75)
 		)
 		(stroke
 			(width 0)
@@ -8436,7 +8186,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 68.58) (xy 375.92 69.85)
+			(xy 375.92 71.12) (xy 375.92 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8476,7 +8226,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 46.99) (xy 53.34 46.99)
+			(xy 54.61 46.99) (xy 55.88 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8516,7 +8266,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 68.58) (xy 314.96 71.12)
+			(xy 339.09 71.12) (xy 339.09 72.39)
 		)
 		(stroke
 			(width 0)
@@ -8526,7 +8276,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 224.79) (xy 323.85 228.6)
+			(xy 330.2 213.36) (xy 330.2 217.17)
 		)
 		(stroke
 			(width 0)
@@ -8576,7 +8326,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 224.79) (xy 356.87 224.79)
+			(xy 364.49 213.36) (xy 363.22 213.36)
 		)
 		(stroke
 			(width 0)
@@ -8586,7 +8336,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 146.05) (xy 347.98 152.4)
+			(xy 375.92 147.32) (xy 375.92 153.67)
 		)
 		(stroke
 			(width 0)
@@ -8616,7 +8366,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 114.3) (xy 353.06 115.57)
+			(xy 356.87 116.84) (xy 356.87 118.11)
 		)
 		(stroke
 			(width 0)
@@ -8646,47 +8396,7 @@
 	)
 	(wire
 		(pts
-			(xy 354.33 78.74) (xy 353.06 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eca70da6-a320-4536-a9bf-a7cf3fb68aa7")
-	)
-	(wire
-		(pts
-			(xy 294.64 77.47) (xy 295.91 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed1cbbea-422c-48d3-ac45-5e2f2d6bab23")
-	)
-	(wire
-		(pts
-			(xy 353.06 53.34) (xy 353.06 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed46e7c8-2820-4dca-b317-8afb3dd80366")
-	)
-	(wire
-		(pts
-			(xy 330.2 156.21) (xy 330.2 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed9b24c8-2e94-4b47-aca8-1cf16a3ab5c1")
-	)
-	(wire
-		(pts
-			(xy 309.88 81.28) (xy 311.15 81.28)
+			(xy 330.2 82.55) (xy 331.47 82.55)
 		)
 		(stroke
 			(width 0)
@@ -8696,7 +8406,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 156.21) (xy 326.39 157.48)
+			(xy 356.87 158.75) (xy 356.87 160.02)
 		)
 		(stroke
 			(width 0)
@@ -8706,23 +8416,13 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 124.46) (xy 317.5 125.73)
+			(xy 337.82 125.73) (xy 337.82 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f03d7531-42ee-4b5f-bd41-1785cd87ebeb")
-	)
-	(wire
-		(pts
-			(xy 318.77 71.12) (xy 314.96 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f05b6f50-d9b0-4a85-b7c7-08dda5ad9570")
 	)
 	(wire
 		(pts
@@ -8736,7 +8436,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 262.89) (xy 59.69 264.16)
+			(xy 59.69 264.16) (xy 59.69 265.43)
 		)
 		(stroke
 			(width 0)
@@ -8756,17 +8456,7 @@
 	)
 	(wire
 		(pts
-			(xy 358.14 78.74) (xy 358.14 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f55c4f6c-6391-44fe-b942-3d214002974c")
-	)
-	(wire
-		(pts
-			(xy 27.94 236.22) (xy 27.94 238.76)
+			(xy 29.21 229.87) (xy 29.21 238.76)
 		)
 		(stroke
 			(width 0)
@@ -8776,7 +8466,7 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 115.57) (xy 355.6 116.84)
+			(xy 356.87 118.11) (xy 356.87 119.38)
 		)
 		(stroke
 			(width 0)
@@ -8786,7 +8476,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 267.97) (xy 33.02 267.97)
+			(xy 31.75 267.97) (xy 33.02 267.97)
 		)
 		(stroke
 			(width 0)
@@ -8806,7 +8496,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 41.91) (xy 355.6 41.91)
+			(xy 354.33 44.45) (xy 355.6 44.45)
 		)
 		(stroke
 			(width 0)
@@ -8816,7 +8506,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 76.2) (xy 375.92 72.39)
+			(xy 375.92 76.2) (xy 375.92 74.93)
 		)
 		(stroke
 			(width 0)
@@ -8886,7 +8576,7 @@
 	)
 	(global_label "Out 03"
 		(shape input)
-		(at 294.64 74.93 90)
+		(at 318.77 81.28 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8896,7 +8586,7 @@
 		)
 		(uuid "09545a3f-17eb-4dcd-8288-bca1b4f90d6b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 294.64 65.353 90)
+			(at 318.77 71.703 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8952,7 +8642,7 @@
 	)
 	(global_label "Out 02"
 		(shape input)
-		(at 351.79 40.64 90)
+		(at 354.33 43.18 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8962,7 +8652,7 @@
 		)
 		(uuid "10abb163-7089-47a1-b532-51121c635855")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 351.79 31.063 90)
+			(at 354.33 33.603 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8974,7 +8664,7 @@
 	)
 	(global_label "Humedad ADC"
 		(shape output)
-		(at 355.6 217.17 180)
+		(at 363.22 205.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8984,7 +8674,7 @@
 		)
 		(uuid "2af687c7-352d-47a6-979f-253f29d1a8ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 339.3102 217.17 0)
+			(at 346.9302 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9084,7 +8774,7 @@
 	)
 	(global_label "Out 06"
 		(shape input)
-		(at 353.06 114.3 90)
+		(at 356.87 116.84 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9094,7 +8784,7 @@
 		)
 		(uuid "4345b245-70ae-4617-8207-3313a4a02cf2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 353.06 104.723 90)
+			(at 356.87 107.263 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9106,7 +8796,7 @@
 	)
 	(global_label "Out 05"
 		(shape input)
-		(at 295.91 115.57 90)
+		(at 320.04 119.38 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9116,7 +8806,7 @@
 		)
 		(uuid "450e7d20-6a30-45cb-841e-d39e84e561f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 295.91 105.993 90)
+			(at 320.04 109.803 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9260,7 +8950,7 @@
 	)
 	(global_label "Out 01"
 		(shape input)
-		(at 294.64 38.1 90)
+		(at 317.5 43.18 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9270,7 +8960,7 @@
 		)
 		(uuid "739bd168-f5a2-4dd5-bfcd-b0a2c74f2970")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 294.64 28.523 90)
+			(at 317.5 33.603 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9348,7 +9038,7 @@
 	)
 	(global_label "Out 08 (SCL)"
 		(shape input)
-		(at 27.94 236.22 90)
+		(at 29.21 229.87 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9358,7 +9048,7 @@
 		)
 		(uuid "938f6bf6-93aa-4737-acc3-b65d9ae24d07")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.94 220.4744 90)
+			(at 29.21 214.1244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9436,7 +9126,7 @@
 	)
 	(global_label "Flujo"
 		(shape output)
-		(at 321.31 222.25 180)
+		(at 330.2 210.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9446,7 +9136,7 @@
 		)
 		(uuid "9d93fa25-3c43-47b5-aab8-7c8f52d91ffa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 313.6682 222.25 0)
+			(at 322.5582 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9546,7 +9236,7 @@
 	)
 	(global_label "Out 07"
 		(shape input)
-		(at 325.12 152.4 90)
+		(at 356.87 154.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9556,7 +9246,7 @@
 		)
 		(uuid "ae7c86cf-69e1-4a37-b411-aa35965916a5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 325.12 142.823 90)
+			(at 356.87 145.363 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9590,7 +9280,7 @@
 	)
 	(global_label "OUT PB2"
 		(shape input)
-		(at 50.8 234.95 270)
+		(at 57.15 233.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9600,7 +9290,7 @@
 		)
 		(uuid "b44934fc-72e2-43d4-9c7c-7543283ecbf3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.8 246.2809 90)
+			(at 45.8191 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9656,29 +9346,29 @@
 	)
 	(global_label "Out b"
 		(shape input)
-		(at 29.21 261.62 90)
+		(at 31.75 262.89 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "cad45f8a-5f13-4976-81fd-a8fd67aad828")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.21 253.313 90)
+			(at 23.443 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "Switch"
 		(shape input)
-		(at 30.48 267.97 180)
+		(at 31.75 267.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9688,7 +9378,7 @@
 		)
 		(uuid "cbde2d33-6808-4d7b-878d-5c9974d3b0dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.3867 267.97 0)
+			(at 22.6567 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9722,7 +9412,7 @@
 	)
 	(global_label "Out 04"
 		(shape input)
-		(at 353.06 77.47 90)
+		(at 356.87 80.01 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9732,7 +9422,7 @@
 		)
 		(uuid "d294902f-c50d-4459-bb60-f7c7a06d3aa4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 353.06 67.893 90)
+			(at 356.87 70.433 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9744,7 +9434,7 @@
 	)
 	(global_label "OUT PB1"
 		(shape input)
-		(at 53.34 264.16 270)
+		(at 58.42 264.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9754,7 +9444,7 @@
 		)
 		(uuid "d5aa73dd-1fa6-4ec9-85f2-d5f9f0d8536a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.34 275.4909 90)
+			(at 47.0891 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9766,22 +9456,22 @@
 	)
 	(global_label "Out a"
 		(shape input)
-		(at 24.13 264.16 90)
+		(at 31.75 265.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "d5ae27eb-8bce-4431-8bfe-1e0250618365")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.13 255.853 90)
+			(at 23.443 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -9898,16 +9588,15 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:AO3400_C4748804")
-		(at 314.96 119.38 0)
+		(at 335.28 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "01f7dfd8-2c11-4755-aa65-0a61157a0edb")
 		(property "Reference" "Q5"
-			(at 322.58 118.1099 0)
+			(at 341.884 120.396 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9916,16 +9605,17 @@
 			)
 		)
 		(property "Value" "AO3400_C4748804"
-			(at 322.58 120.6499 0)
+			(at 342.9 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 314.96 132.08 0)
+			(at 335.28 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9934,7 +9624,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 119.38 0)
+			(at 335.28 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9943,7 +9633,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 314.96 119.38 0)
+			(at 335.28 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9952,7 +9642,7 @@
 			)
 		)
 		(property "LCSC Part" "C4748804"
-			(at 314.96 134.62 0)
+			(at 335.28 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10045,7 +9735,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 363.22 219.71 0)
+		(at 369.57 208.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10054,7 +9744,7 @@
 		(fields_autoplaced yes)
 		(uuid "03ce2de7-a77c-4465-987c-587778b6d435")
 		(property "Reference" "J14"
-			(at 365.76 219.7099 0)
+			(at 372.11 208.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10063,16 +9753,17 @@
 			)
 		)
 		(property "Value" "Sensor de humedad"
-			(at 365.76 222.2499 0)
+			(at 372.11 210.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_4P-P3.81_KF124-3.81-4P"
-			(at 363.22 219.71 0)
+			(at 369.57 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10081,7 +9772,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 363.22 219.71 0)
+			(at 369.57 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10090,7 +9781,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 363.22 219.71 0)
+			(at 369.57 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10099,7 +9790,7 @@
 			)
 		)
 		(property "LCSC Part" "C69809"
-			(at 363.22 219.71 0)
+			(at 369.57 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10130,7 +9821,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:SS520_C466507")
-		(at 90.17 41.91 270)
+		(at 85.09 41.91 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10139,7 +9830,7 @@
 		(fields_autoplaced yes)
 		(uuid "08243a32-bcd7-41ba-be57-4febcadf8fec")
 		(property "Reference" "D2"
-			(at 94.0068 40.3849 90)
+			(at 88.9268 40.3849 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10148,7 +9839,7 @@
 			)
 		)
 		(property "Value" "SS520_C466507"
-			(at 94.0068 42.9249 90)
+			(at 88.9268 42.9249 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10158,7 +9849,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMA_L4.4-W2.8-LS5.4-RD"
-			(at 82.55 41.91 0)
+			(at 77.47 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10167,7 +9858,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_High-Diode-SS520_C466507.html"
-			(at 80.01 41.91 0)
+			(at 74.93 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10176,7 +9867,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 90.17 41.91 0)
+			(at 85.09 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10185,7 +9876,7 @@
 			)
 		)
 		(property "LCSC Part" "C466507"
-			(at 77.47 41.91 0)
+			(at 72.39 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10210,16 +9901,15 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-07150RL")
-		(at 303.53 43.18 0)
+		(at 323.85 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0c5007c8-63ee-478e-b396-e27f76e97a03")
 		(property "Reference" "R16"
-			(at 303.53 36.83 0)
+			(at 323.596 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10227,15 +9917,16 @@
 			)
 		)
 		(property "Value" "RC1206FR-07150RL"
-			(at 303.53 39.37 0)
+			(at 323.85 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 303.53 50.8 0)
+			(at 323.85 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10244,7 +9935,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/_RC1206FR-07150RL_C137387.html"
-			(at 303.53 53.34 0)
+			(at 323.85 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10253,7 +9944,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 303.53 43.18 0)
+			(at 323.85 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10262,7 +9953,7 @@
 			)
 		)
 		(property "LCSC Part" "C137387"
-			(at 303.53 55.88 0)
+			(at 323.85 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10305,11 +9996,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 250.19 0)
+			(at 31.75 246.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -10353,7 +10045,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 353.06 223.52 0)
+		(at 359.41 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10362,7 +10054,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f12ebe3-a57b-4761-9af7-76858d573a59")
 		(property "Reference" "#PWR042"
-			(at 353.06 229.87 0)
+			(at 359.41 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10371,7 +10063,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 353.06 228.6 0)
+			(at 359.41 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10379,7 +10071,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 353.06 223.52 0)
+			(at 359.41 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10388,7 +10080,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 353.06 223.52 0)
+			(at 359.41 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10397,7 +10089,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 353.06 223.52 0)
+			(at 359.41 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10655,7 +10347,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 354.33 85.09 90)
+		(at 356.87 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10664,7 +10356,7 @@
 		(fields_autoplaced yes)
 		(uuid "15118055-3e8e-4880-8ad9-fc1d73b791aa")
 		(property "Reference" "R8"
-			(at 356.87 83.8199 90)
+			(at 359.41 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10673,7 +10365,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 356.87 86.3599 90)
+			(at 359.41 88.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10682,7 +10374,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 361.95 85.09 0)
+			(at 364.49 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10691,7 +10383,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 364.49 85.09 0)
+			(at 367.03 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10700,7 +10392,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 354.33 85.09 0)
+			(at 356.87 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10709,7 +10401,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 367.03 85.09 0)
+			(at 369.57 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10800,7 +10492,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 316.23 30.48 0)
+		(at 337.82 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10809,7 +10501,7 @@
 		(fields_autoplaced yes)
 		(uuid "19ca07bf-476f-4655-aa44-f574863c0476")
 		(property "Reference" "#PWR026"
-			(at 316.23 34.29 0)
+			(at 337.82 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10818,7 +10510,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 316.23 25.4 0)
+			(at 337.82 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10826,7 +10518,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 30.48 0)
+			(at 337.82 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10835,7 +10527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 30.48 0)
+			(at 337.82 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10844,7 +10536,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 316.23 30.48 0)
+			(at 337.82 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10866,7 +10558,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 373.38 31.75 0)
+		(at 373.38 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10875,7 +10567,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ae47428-0ff8-4981-82ed-95f85b6f5082")
 		(property "Reference" "#PWR027"
-			(at 373.38 35.56 0)
+			(at 373.38 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10884,7 +10576,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 373.38 26.67 0)
+			(at 373.38 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10892,7 +10584,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 373.38 31.75 0)
+			(at 373.38 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10901,7 +10593,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 373.38 31.75 0)
+			(at 373.38 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10910,7 +10602,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 373.38 31.75 0)
+			(at 373.38 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10932,7 +10624,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 314.96 68.58 0)
+		(at 339.09 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10941,7 +10633,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ce81123-bd24-4fcf-be14-849a701ca6c8")
 		(property "Reference" "#PWR028"
-			(at 314.96 72.39 0)
+			(at 339.09 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10950,7 +10642,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 314.96 63.5 0)
+			(at 339.09 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10958,7 +10650,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 314.96 68.58 0)
+			(at 339.09 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10967,7 +10659,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 314.96 68.58 0)
+			(at 339.09 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10976,7 +10668,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 314.96 68.58 0)
+			(at 339.09 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11070,10 +10762,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "22602bd2-6cb6-4b26-9a65-f70268cddb6c")
 		(property "Reference" "R13"
-			(at 363.22 111.76 0)
+			(at 363.22 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11086,6 +10777,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
@@ -11286,7 +10978,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 298.45 123.19 90)
+		(at 320.04 127 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11295,7 +10987,7 @@
 		(fields_autoplaced yes)
 		(uuid "265abea7-253c-45ba-bc60-33af220f038d")
 		(property "Reference" "R9"
-			(at 300.99 121.9199 90)
+			(at 322.58 125.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11304,7 +10996,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 300.99 124.4599 90)
+			(at 322.58 128.2699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11313,7 +11005,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 306.07 123.19 0)
+			(at 327.66 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11322,7 +11014,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 308.61 123.19 0)
+			(at 330.2 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11331,7 +11023,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 298.45 123.19 0)
+			(at 320.04 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11340,7 +11032,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 311.15 123.19 0)
+			(at 332.74 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11371,10 +11063,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "27661f54-11a8-4cef-92a9-ab264e6e2385")
 		(property "Reference" "Q4"
-			(at 381 80.0099 0)
+			(at 379.73 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11514,7 +11205,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 356.87 227.33 180)
+		(at 363.22 215.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11523,7 +11214,7 @@
 		(fields_autoplaced yes)
 		(uuid "2821a979-ca54-4460-8c16-d206f0c7ddf0")
 		(property "Reference" "#PWR044"
-			(at 356.87 223.52 0)
+			(at 363.22 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11532,7 +11223,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 356.87 232.41 0)
+			(at 363.22 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11540,7 +11231,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 356.87 227.33 0)
+			(at 363.22 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11549,7 +11240,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 227.33 0)
+			(at 363.22 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11558,7 +11249,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 356.87 227.33 0)
+			(at 363.22 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11580,16 +11271,15 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:AO3400_C4748804")
-		(at 345.44 157.48 0)
+		(at 373.38 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2a86fc9b-2b92-4626-9d37-7168cc7b49a0")
 		(property "Reference" "Q7"
-			(at 353.06 156.2099 0)
+			(at 379.984 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11598,16 +11288,17 @@
 			)
 		)
 		(property "Value" "AO3400_C4748804"
-			(at 353.06 158.7499 0)
+			(at 381 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 345.44 170.18 0)
+			(at 373.38 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11616,7 +11307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 345.44 157.48 0)
+			(at 373.38 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11625,7 +11316,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 345.44 157.48 0)
+			(at 373.38 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11634,7 +11325,7 @@
 			)
 		)
 		(property "LCSC Part" "C4748804"
-			(at 345.44 172.72 0)
+			(at 373.38 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11745,7 +11436,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 326.39 170.18 0)
+		(at 356.87 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11754,7 +11445,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e5f28a2-b93a-416e-ba52-b4dd636e84e8")
 		(property "Reference" "#PWR032"
-			(at 326.39 176.53 0)
+			(at 356.87 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11763,7 +11454,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 326.39 175.26 0)
+			(at 356.87 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11771,7 +11462,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 326.39 170.18 0)
+			(at 356.87 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11780,7 +11471,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 326.39 170.18 0)
+			(at 356.87 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11789,7 +11480,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 326.39 170.18 0)
+			(at 356.87 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11817,10 +11508,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2f4dca60-5546-41f0-9baa-d231db4a327a")
 		(property "Reference" "Q2"
-			(at 378.46 43.1799 0)
+			(at 377.698 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11835,6 +11525,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
@@ -11893,7 +11584,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 374.65 106.68 0)
+		(at 374.65 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11902,7 +11593,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f59255c-bd43-4e2a-ac0e-bf4ce8bb9194")
 		(property "Reference" "#PWR025"
-			(at 374.65 110.49 0)
+			(at 374.65 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11911,7 +11602,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 374.65 101.6 0)
+			(at 374.65 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11919,7 +11610,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 374.65 106.68 0)
+			(at 374.65 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11928,7 +11619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 374.65 106.68 0)
+			(at 374.65 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11937,7 +11628,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 374.65 106.68 0)
+			(at 374.65 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12091,7 +11782,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 355.6 128.27 0)
+		(at 356.87 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12100,7 +11791,7 @@
 		(fields_autoplaced yes)
 		(uuid "32031275-b0b6-46b5-b15d-bdd08e4ab2f6")
 		(property "Reference" "#PWR031"
-			(at 355.6 134.62 0)
+			(at 356.87 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12109,7 +11800,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 355.6 133.35 0)
+			(at 356.87 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12117,7 +11808,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 355.6 128.27 0)
+			(at 356.87 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12126,7 +11817,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 355.6 128.27 0)
+			(at 356.87 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12135,7 +11826,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 355.6 128.27 0)
+			(at 356.87 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12321,10 +12012,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "373f085f-89a7-421e-92e5-906619914d8f")
 		(property "Reference" "R14"
-			(at 360.68 38.1 0)
+			(at 360.68 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12337,6 +12027,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
@@ -12392,16 +12083,15 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:AO3400_C4748804")
-		(at 313.69 43.18 0)
+		(at 334.01 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "39d4cf59-a384-43bc-9ec1-08f58d0f455d")
 		(property "Reference" "Q1"
-			(at 321.31 41.9099 0)
+			(at 340.614 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12410,16 +12100,17 @@
 			)
 		)
 		(property "Value" "AO3400_C4748804"
-			(at 321.31 44.4499 0)
+			(at 341.63 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 313.69 55.88 0)
+			(at 334.01 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12428,7 +12119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 313.69 43.18 0)
+			(at 334.01 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12437,7 +12128,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 313.69 43.18 0)
+			(at 334.01 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12446,7 +12137,7 @@
 			)
 		)
 		(property "LCSC Part" "C4748804"
-			(at 313.69 58.42 0)
+			(at 334.01 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12480,10 +12171,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3e6c76f9-6622-454d-87d5-1a55c5763334")
 		(property "Reference" "U1"
-			(at 69.85 39.37 0)
+			(at 69.85 42.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12496,6 +12186,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:TO-263-2_L10.0-W9.2-P5.08-LS15.3-TL-CW"
@@ -12620,7 +12311,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 59.69 269.24 90)
+		(at 59.69 270.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12629,7 +12320,7 @@
 		(fields_autoplaced yes)
 		(uuid "4285ab7e-53ad-42a4-ac16-e9cd6c28f57b")
 		(property "Reference" "R22"
-			(at 62.23 267.9699 90)
+			(at 62.23 269.2399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12638,7 +12329,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 62.23 270.5099 90)
+			(at 62.23 271.7799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12647,7 +12338,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 67.31 269.24 0)
+			(at 67.31 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12656,7 +12347,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 69.85 269.24 0)
+			(at 69.85 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12665,7 +12356,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 269.24 0)
+			(at 59.69 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12674,7 +12365,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 72.39 269.24 0)
+			(at 72.39 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12699,7 +12390,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 298.45 130.81 0)
+		(at 320.04 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12708,7 +12399,7 @@
 		(fields_autoplaced yes)
 		(uuid "42f133c7-01a4-4bbb-9756-7be19bca16df")
 		(property "Reference" "#PWR030"
-			(at 298.45 137.16 0)
+			(at 320.04 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12717,7 +12408,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 298.45 135.89 0)
+			(at 320.04 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12725,7 +12416,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 298.45 130.81 0)
+			(at 320.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12734,7 +12425,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 298.45 130.81 0)
+			(at 320.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12743,7 +12434,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 298.45 130.81 0)
+			(at 320.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12765,7 +12456,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 347.98 165.1 0)
+		(at 375.92 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12774,7 +12465,7 @@
 		(fields_autoplaced yes)
 		(uuid "448aa4ea-fac1-429a-ab29-174c6b7d859f")
 		(property "Reference" "#PWR010"
-			(at 347.98 171.45 0)
+			(at 375.92 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12783,7 +12474,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 347.98 170.18 0)
+			(at 375.92 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12791,7 +12482,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 347.98 165.1 0)
+			(at 375.92 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12800,7 +12491,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 347.98 165.1 0)
+			(at 375.92 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12809,7 +12500,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 347.98 165.1 0)
+			(at 375.92 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13025,7 +12716,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 43.18 270)
+		(at 125.73 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13034,7 +12725,7 @@
 		(fields_autoplaced yes)
 		(uuid "462baf39-6370-42bd-9296-25e283e6c6d2")
 		(property "Reference" "#PWR022"
-			(at 119.38 43.18 0)
+			(at 119.38 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13043,7 +12734,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 43.1799 90)
+			(at 121.92 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13052,7 +12743,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 43.18 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13061,7 +12752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 43.18 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13070,7 +12761,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 43.18 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13092,7 +12783,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 317.5 125.73 0)
+		(at 337.82 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13101,7 +12792,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a0a5b49-50bb-47b0-8c7c-d81efa9d5fd1")
 		(property "Reference" "#PWR04"
-			(at 317.5 132.08 0)
+			(at 337.82 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13110,7 +12801,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 317.5 130.81 0)
+			(at 337.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13118,7 +12809,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 317.5 125.73 0)
+			(at 337.82 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13127,7 +12818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 317.5 125.73 0)
+			(at 337.82 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13136,7 +12827,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 317.5 125.73 0)
+			(at 337.82 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13158,16 +12849,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 323.85 71.12 0)
+		(at 344.17 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4c976dee-ba09-49ed-87a8-29751e2cc19d")
 		(property "Reference" "J3"
-			(at 326.39 71.1199 0)
+			(at 345.948 73.914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13176,16 +12866,17 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 326.39 73.6599 0)
+			(at 346.71 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 323.85 71.12 0)
+			(at 344.17 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13194,7 +12885,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 323.85 71.12 0)
+			(at 344.17 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13203,7 +12894,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 323.85 71.12 0)
+			(at 344.17 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13212,7 +12903,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 323.85 71.12 0)
+			(at 344.17 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13303,7 +12994,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 375.92 68.58 0)
+		(at 375.92 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13312,7 +13003,7 @@
 		(fields_autoplaced yes)
 		(uuid "554b8482-675c-42f7-b8cf-7db3faaef8ef")
 		(property "Reference" "#PWR023"
-			(at 375.92 72.39 0)
+			(at 375.92 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13321,7 +13012,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 375.92 63.5 0)
+			(at 375.92 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13329,7 +13020,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 375.92 68.58 0)
+			(at 375.92 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13338,7 +13029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 375.92 68.58 0)
+			(at 375.92 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13347,7 +13038,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 375.92 68.58 0)
+			(at 375.92 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13435,7 +13126,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 355.6 121.92 90)
+		(at 356.87 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13444,7 +13135,7 @@
 		(fields_autoplaced yes)
 		(uuid "586ce51a-456b-48f9-a8c1-77eb9e6fec95")
 		(property "Reference" "R10"
-			(at 358.14 120.6499 90)
+			(at 359.41 123.1899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13453,7 +13144,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 358.14 123.1899 90)
+			(at 359.41 125.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13462,7 +13153,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 363.22 121.92 0)
+			(at 364.49 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13471,7 +13162,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 365.76 121.92 0)
+			(at 367.03 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13480,7 +13171,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 355.6 121.92 0)
+			(at 356.87 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13489,7 +13180,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 368.3 121.92 0)
+			(at 369.57 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13514,16 +13205,15 @@
 	)
 	(symbol
 		(lib_id "EasyEDA:AO3400_C4748804")
-		(at 313.69 81.28 0)
+		(at 334.01 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "59dba56f-30d6-42ae-9d40-df752fa1b02c")
 		(property "Reference" "Q3"
-			(at 321.31 80.0099 0)
+			(at 341.122 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13532,16 +13222,17 @@
 			)
 		)
 		(property "Value" "AO3400_C4748804"
-			(at 321.31 82.5499 0)
+			(at 341.63 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 313.69 93.98 0)
+			(at 334.01 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13550,7 +13241,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 313.69 81.28 0)
+			(at 334.01 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13559,7 +13250,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 313.69 81.28 0)
+			(at 334.01 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13568,7 +13259,7 @@
 			)
 		)
 		(property "LCSC Part" "C4748804"
-			(at 313.69 96.52 0)
+			(at 334.01 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13602,10 +13293,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "60fcac51-b692-4a51-bd5a-a2fbcac6d3cd")
 		(property "Reference" "D4"
-			(at 118.11 38.6099 90)
+			(at 117.348 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13620,6 +13310,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOD-123_L2.8-W1.8-LS3.7-RD"
@@ -13747,10 +13438,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "64bee976-11a9-4cfa-bb92-e83e7a28e514")
 		(property "Reference" "R4"
-			(at 210.82 246.38 0)
+			(at 210.82 250.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13763,6 +13453,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
@@ -13950,7 +13641,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 330.2 222.25 0)
+		(at 336.55 210.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13959,7 +13650,7 @@
 		(fields_autoplaced yes)
 		(uuid "67a54d14-8350-45da-9559-afdb3227c2d2")
 		(property "Reference" "J7"
-			(at 332.74 220.9799 0)
+			(at 339.09 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13968,16 +13659,17 @@
 			)
 		)
 		(property "Value" "Sensor de flujo"
-			(at 332.74 223.5199 0)
+			(at 339.09 212.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_3P-P5.00_WJ128V-5.0-3P"
-			(at 330.2 222.25 0)
+			(at 336.55 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13986,7 +13678,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 330.2 222.25 0)
+			(at 336.55 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13995,7 +13687,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 330.2 222.25 0)
+			(at 336.55 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14004,7 +13696,7 @@
 			)
 		)
 		(property "LCSC Part" "C8270"
-			(at 330.2 222.25 0)
+			(at 336.55 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14038,7 +13730,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "68df99a7-0adc-4e70-b93c-f096f8363666")
 		(property "Reference" "USB1"
 			(at 102.87 137.16 0)
@@ -14046,14 +13737,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "TYPE-C-31-M-13"
-			(at 102.87 139.7 0)
+			(at 102.87 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:USB-C-SMD_TYPE-C-31-M-13"
@@ -14220,7 +13913,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 353.06 54.61 0)
+		(at 354.33 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14229,7 +13922,7 @@
 		(fields_autoplaced yes)
 		(uuid "6e6b4f11-52ce-43cb-956e-76e06d597333")
 		(property "Reference" "#PWR034"
-			(at 353.06 60.96 0)
+			(at 354.33 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14238,7 +13931,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 353.06 59.69 0)
+			(at 354.33 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14246,7 +13939,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 353.06 54.61 0)
+			(at 354.33 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14255,7 +13948,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 353.06 54.61 0)
+			(at 354.33 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14264,7 +13957,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 353.06 54.61 0)
+			(at 354.33 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14286,16 +13979,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 323.85 31.75 0)
+		(at 342.9 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e8a7617-d3a8-4486-94c2-ca0219a1d963")
 		(property "Reference" "J1"
-			(at 326.39 31.7499 0)
+			(at 345.186 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14304,16 +13996,17 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 326.39 34.2899 0)
+			(at 345.44 38.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 323.85 31.75 0)
+			(at 342.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14322,7 +14015,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 323.85 31.75 0)
+			(at 342.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14331,7 +14024,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 323.85 31.75 0)
+			(at 342.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14340,7 +14033,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 323.85 31.75 0)
+			(at 342.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14365,7 +14058,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 326.39 162.56 90)
+		(at 356.87 165.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14374,7 +14067,7 @@
 		(fields_autoplaced yes)
 		(uuid "703ddfa5-b611-4174-a7c5-2800cd6e4659")
 		(property "Reference" "R17"
-			(at 328.93 161.2899 90)
+			(at 359.41 163.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14383,7 +14076,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 328.93 163.8299 90)
+			(at 359.41 166.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14392,7 +14085,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 334.01 162.56 0)
+			(at 364.49 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14401,7 +14094,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 336.55 162.56 0)
+			(at 367.03 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14410,7 +14103,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 326.39 162.56 0)
+			(at 356.87 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14419,7 +14112,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 339.09 162.56 0)
+			(at 369.57 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14581,10 +14274,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "73fce057-9cf7-448e-9388-ae74be83c619")
 		(property "Reference" "D5"
-			(at 123.445 133.35 0)
+			(at 122.936 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14597,6 +14289,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMA_L4.4-W2.8-LS5.4-RD"
@@ -14820,16 +14513,15 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-07150RL")
-		(at 306.07 119.38 0)
+		(at 326.39 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7907bfc9-916e-4e51-9555-d999c26e26b9")
 		(property "Reference" "R12"
-			(at 306.07 113.03 0)
+			(at 326.39 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14837,15 +14529,16 @@
 			)
 		)
 		(property "Value" "RC1206FR-07150RL"
-			(at 306.07 115.57 0)
+			(at 326.39 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 306.07 127 0)
+			(at 326.39 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14854,7 +14547,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/_RC1206FR-07150RL_C137387.html"
-			(at 306.07 129.54 0)
+			(at 326.39 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14863,7 +14556,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 306.07 119.38 0)
+			(at 326.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14872,7 +14565,7 @@
 			)
 		)
 		(property "LCSC Part" "C137387"
-			(at 306.07 132.08 0)
+			(at 326.39 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14897,7 +14590,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 382.27 33.02 0)
+		(at 378.46 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14906,7 +14599,7 @@
 		(fields_autoplaced yes)
 		(uuid "7cafd962-d014-4967-8ad8-21b7ce5c6493")
 		(property "Reference" "J2"
-			(at 384.81 33.0199 0)
+			(at 381 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14915,16 +14608,17 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 384.81 35.5599 0)
+			(at 381 38.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 382.27 33.02 0)
+			(at 378.46 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14933,7 +14627,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 382.27 33.02 0)
+			(at 378.46 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14942,7 +14636,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 382.27 33.02 0)
+			(at 378.46 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14951,7 +14645,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 382.27 33.02 0)
+			(at 378.46 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15042,7 +14736,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 26.67 242.57 180)
+		(at 27.94 241.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15051,7 +14745,7 @@
 		(fields_autoplaced yes)
 		(uuid "83f273c7-5529-4d94-bdf3-0363af23f652")
 		(property "Reference" "#PWR013"
-			(at 26.67 238.76 0)
+			(at 31.75 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15060,7 +14754,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 26.67 247.65 0)
+			(at 26.67 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15068,7 +14762,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 242.57 0)
+			(at 27.94 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15077,7 +14771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 242.57 0)
+			(at 27.94 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15086,7 +14780,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 26.67 242.57 0)
+			(at 27.94 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15114,10 +14808,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8b39dc8e-fafb-4d7e-b66c-01e308512ad1")
 		(property "Reference" "R11"
-			(at 363.22 74.93 0)
+			(at 363.22 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15409,7 +15102,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 323.85 228.6 0)
+		(at 330.2 217.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15418,7 +15111,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f716038-0000-43f8-91ac-f9d86fd0c168")
 		(property "Reference" "#PWR011"
-			(at 323.85 234.95 0)
+			(at 330.2 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15427,7 +15120,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 323.85 233.68 0)
+			(at 330.2 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15435,7 +15128,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 323.85 228.6 0)
+			(at 330.2 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15444,7 +15137,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 323.85 228.6 0)
+			(at 330.2 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15453,7 +15146,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 323.85 228.6 0)
+			(at 330.2 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15541,16 +15234,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 383.54 107.95 0)
+		(at 379.73 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "93e165f5-2269-4c16-979a-fe6d537b17ec")
 		(property "Reference" "J6"
-			(at 386.08 107.9499 0)
+			(at 381.762 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15559,16 +15251,17 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 386.08 110.4899 0)
+			(at 382.27 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 383.54 107.95 0)
+			(at 379.73 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15577,7 +15270,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 107.95 0)
+			(at 379.73 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15586,7 +15279,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 383.54 107.95 0)
+			(at 379.73 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15595,7 +15288,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 383.54 107.95 0)
+			(at 379.73 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15685,7 +15378,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 295.91 46.99 90)
+		(at 317.5 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15694,7 +15387,7 @@
 		(fields_autoplaced yes)
 		(uuid "96209be8-8985-4cfb-800d-e924ac46f0e1")
 		(property "Reference" "R18"
-			(at 298.45 45.7199 90)
+			(at 320.04 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15703,7 +15396,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 298.45 48.2599 90)
+			(at 320.04 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15712,7 +15405,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 303.53 46.99 0)
+			(at 325.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15721,7 +15414,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 306.07 46.99 0)
+			(at 327.66 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15730,7 +15423,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 295.91 46.99 0)
+			(at 317.5 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15739,7 +15432,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 308.61 46.99 0)
+			(at 330.2 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15896,7 +15589,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 323.85 215.9 0)
+		(at 330.2 204.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15905,7 +15598,7 @@
 		(fields_autoplaced yes)
 		(uuid "a07d2ebc-11b9-4b90-be51-3525bf0921b4")
 		(property "Reference" "#PWR012"
-			(at 323.85 219.71 0)
+			(at 330.2 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15914,7 +15607,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 323.85 210.82 0)
+			(at 330.2 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15922,7 +15615,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 323.85 215.9 0)
+			(at 330.2 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15931,7 +15624,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 323.85 215.9 0)
+			(at 330.2 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15940,7 +15633,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 323.85 215.9 0)
+			(at 330.2 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16028,7 +15721,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 295.91 53.34 0)
+		(at 317.5 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16037,7 +15730,7 @@
 		(fields_autoplaced yes)
 		(uuid "a47f9c80-4707-4b05-a3d2-74b83c7127d4")
 		(property "Reference" "#PWR033"
-			(at 295.91 59.69 0)
+			(at 317.5 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16046,7 +15739,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 295.91 58.42 0)
+			(at 317.5 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16054,7 +15747,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 295.91 53.34 0)
+			(at 317.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16063,7 +15756,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 295.91 53.34 0)
+			(at 317.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16072,7 +15765,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 295.91 53.34 0)
+			(at 317.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16275,6 +15968,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:C0805"
@@ -16486,7 +16180,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 318.77 107.95 0)
+		(at 341.63 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16495,7 +16189,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6b7b76a-557a-44f1-9201-9d5c32cddd98")
 		(property "Reference" "#PWR024"
-			(at 318.77 111.76 0)
+			(at 341.63 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16504,7 +16198,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 318.77 102.87 0)
+			(at 341.63 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16512,7 +16206,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 318.77 107.95 0)
+			(at 341.63 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16521,7 +16215,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 318.77 107.95 0)
+			(at 341.63 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16530,7 +16224,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 318.77 107.95 0)
+			(at 341.63 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16618,7 +16312,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 90.17 35.56 0)
+		(at 85.09 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16627,7 +16321,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab7c1fd3-98e7-4928-a153-fe569ee81a3b")
 		(property "Reference" "#PWR01"
-			(at 90.17 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16636,7 +16330,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 90.17 30.48 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16644,7 +16338,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 35.56 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16653,7 +16347,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 35.56 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16662,7 +16356,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 90.17 35.56 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16750,7 +16444,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 295.91 83.82 90)
+		(at 318.77 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16759,7 +16453,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae2737ee-fb5f-4cb8-a3e4-9e3c87bde90b")
 		(property "Reference" "R20"
-			(at 298.45 82.5499 90)
+			(at 321.31 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16768,7 +16462,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 298.45 85.0899 90)
+			(at 321.31 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16777,7 +16471,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 303.53 83.82 0)
+			(at 326.39 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16786,7 +16480,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 306.07 83.82 0)
+			(at 328.93 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16795,7 +16489,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 295.91 83.82 0)
+			(at 318.77 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16804,7 +16498,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 308.61 83.82 0)
+			(at 331.47 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16908,7 +16602,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 66.04 260.35 0)
+		(at 66.04 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16917,7 +16611,7 @@
 		(fields_autoplaced yes)
 		(uuid "b23aa150-77b3-4e69-a535-674b42b084bd")
 		(property "Reference" "J12"
-			(at 68.58 260.3499 0)
+			(at 68.58 261.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16926,7 +16620,7 @@
 			)
 		)
 		(property "Value" "PB1 (OK)"
-			(at 68.58 262.8899 0)
+			(at 68.58 264.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16935,7 +16629,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 66.04 260.35 0)
+			(at 66.04 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16944,7 +16638,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 260.35 0)
+			(at 66.04 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16953,7 +16647,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 66.04 260.35 0)
+			(at 66.04 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16962,7 +16656,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 66.04 260.35 0)
+			(at 66.04 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16987,7 +16681,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 27.94 273.05 180)
+		(at 21.59 270.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16996,7 +16690,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7a887d9-6176-4485-8126-ec19a096cf01")
 		(property "Reference" "#PWR018"
-			(at 27.94 269.24 0)
+			(at 25.4 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17005,7 +16699,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 27.94 278.13 0)
+			(at 20.32 267.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17013,7 +16707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 273.05 0)
+			(at 21.59 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17022,7 +16716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 273.05 0)
+			(at 21.59 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17031,7 +16725,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 27.94 273.05 0)
+			(at 21.59 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17119,7 +16813,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 53.34 43.18 0)
+		(at 54.61 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17128,7 +16822,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8c1297e-7f24-42f9-880e-41222e18f611")
 		(property "Reference" "#PWR02"
-			(at 53.34 46.99 0)
+			(at 54.61 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17137,7 +16831,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 53.34 38.1 0)
+			(at 54.61 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17145,7 +16839,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 53.34 43.18 0)
+			(at 54.61 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17154,7 +16848,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 43.18 0)
+			(at 54.61 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17163,7 +16857,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 53.34 43.18 0)
+			(at 54.61 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17185,7 +16879,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 275.59 0)
+		(at 59.69 276.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17194,7 +16888,7 @@
 		(fields_autoplaced yes)
 		(uuid "b92dee83-800a-4b6d-ab0a-01a030b9b67b")
 		(property "Reference" "#PWR037"
-			(at 59.69 281.94 0)
+			(at 59.69 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17203,7 +16897,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 280.67 0)
+			(at 59.69 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17211,7 +16905,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 275.59 0)
+			(at 59.69 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17220,7 +16914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 275.59 0)
+			(at 59.69 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17229,7 +16923,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 275.59 0)
+			(at 59.69 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17448,16 +17142,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 353.06 143.51 0)
+		(at 381 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bcec5a6d-194a-4b31-9f56-ce4635dc9e99")
 		(property "Reference" "J8"
-			(at 355.6 143.5099 0)
+			(at 383.286 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17466,16 +17159,17 @@
 			)
 		)
 		(property "Value" "Dispensador de nutrientes"
-			(at 355.6 146.0499 0)
+			(at 383.54 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 353.06 143.51 0)
+			(at 381 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17484,7 +17178,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 353.06 143.51 0)
+			(at 381 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17493,7 +17187,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 353.06 143.51 0)
+			(at 381 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17502,7 +17196,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 353.06 143.51 0)
+			(at 381 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17527,16 +17221,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 383.54 69.85 0)
+		(at 381 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bcfaee01-f83e-41eb-bede-702c12a6010f")
 		(property "Reference" "J4"
-			(at 386.08 69.8499 0)
+			(at 383.032 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17545,16 +17238,17 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 386.08 72.3899 0)
+			(at 383.54 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 383.54 69.85 0)
+			(at 381 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17563,7 +17257,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 383.54 69.85 0)
+			(at 381 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17572,7 +17266,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 383.54 69.85 0)
+			(at 381 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17581,7 +17275,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 383.54 69.85 0)
+			(at 381 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17606,7 +17300,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 316.23 87.63 0)
+		(at 336.55 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17614,7 +17308,7 @@
 		(dnp no)
 		(uuid "c1dea5df-81c4-4da1-95d6-85cad0ec5043")
 		(property "Reference" "#PWR08"
-			(at 316.23 93.98 0)
+			(at 336.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17623,7 +17317,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 316.484 92.202 0)
+			(at 336.804 93.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17631,7 +17325,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 87.63 0)
+			(at 336.55 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17640,7 +17334,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 87.63 0)
+			(at 336.55 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17649,7 +17343,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 316.23 87.63 0)
+			(at 336.55 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17671,16 +17365,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 326.39 109.22 0)
+		(at 346.71 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c8c19312-ba2f-4619-9a88-611986ce0219")
 		(property "Reference" "J5"
-			(at 328.93 109.2199 0)
+			(at 348.234 112.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17689,16 +17382,17 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 328.93 111.7599 0)
+			(at 349.25 113.0299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_2P-P5.00_CPC3703CTR"
-			(at 326.39 109.22 0)
+			(at 346.71 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17707,7 +17401,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 326.39 109.22 0)
+			(at 346.71 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17716,7 +17410,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 326.39 109.22 0)
+			(at 346.71 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17725,7 +17419,7 @@
 			)
 		)
 		(property "LCSC Part" "C3703"
-			(at 326.39 109.22 0)
+			(at 346.71 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17946,16 +17640,15 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-07150RL")
-		(at 335.28 157.48 0)
+		(at 363.22 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d55f1974-e870-4b72-9a0b-bbcf4c2f2f2c")
 		(property "Reference" "R21"
-			(at 335.28 151.13 0)
+			(at 363.22 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17963,15 +17656,16 @@
 			)
 		)
 		(property "Value" "RC1206FR-07150RL"
-			(at 335.28 153.67 0)
+			(at 363.22 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 335.28 165.1 0)
+			(at 363.22 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17980,7 +17674,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/_RC1206FR-07150RL_C137387.html"
-			(at 335.28 167.64 0)
+			(at 363.22 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17989,7 +17683,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 335.28 157.48 0)
+			(at 363.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17998,7 +17692,7 @@
 			)
 		)
 		(property "LCSC Part" "C137387"
-			(at 335.28 170.18 0)
+			(at 363.22 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18088,7 +17782,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 295.91 90.17 0)
+		(at 318.77 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18096,7 +17790,7 @@
 		(dnp no)
 		(uuid "d6db3e00-bf37-49ef-abc4-5b9d71baa9d8")
 		(property "Reference" "#PWR035"
-			(at 295.91 96.52 0)
+			(at 318.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18105,7 +17799,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 296.164 94.742 0)
+			(at 319.024 99.822 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18113,7 +17807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 295.91 90.17 0)
+			(at 318.77 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18122,7 +17816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 295.91 90.17 0)
+			(at 318.77 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18131,7 +17825,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 295.91 90.17 0)
+			(at 318.77 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18176,6 +17870,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:C0805"
@@ -18231,7 +17926,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 316.23 49.53 0)
+		(at 336.55 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18240,7 +17935,7 @@
 		(fields_autoplaced yes)
 		(uuid "db1733f6-f1fe-4c9b-b126-b943b670475d")
 		(property "Reference" "#PWR06"
-			(at 316.23 55.88 0)
+			(at 336.55 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18249,7 +17944,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 316.23 54.61 0)
+			(at 336.55 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18257,7 +17952,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 49.53 0)
+			(at 336.55 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18266,7 +17961,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 49.53 0)
+			(at 336.55 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18275,7 +17970,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 316.23 49.53 0)
+			(at 336.55 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18536,7 +18231,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 58.42 257.81 0)
+		(at 58.42 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18544,7 +18239,7 @@
 		(dnp no)
 		(uuid "e0956918-2898-4510-b098-cc09fae4c0a0")
 		(property "Reference" "#PWR060"
-			(at 58.42 261.62 0)
+			(at 58.42 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18553,7 +18248,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 58.42 254 0)
+			(at 58.42 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18561,7 +18256,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 58.42 257.81 0)
+			(at 58.42 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18570,7 +18265,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 257.81 0)
+			(at 58.42 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18579,7 +18274,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 58.42 257.81 0)
+			(at 58.42 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18601,7 +18296,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-0710KL")
-		(at 353.06 48.26 90)
+		(at 354.33 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18610,7 +18305,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6b980d6-7276-4135-8d78-656e6fea8611")
 		(property "Reference" "R19"
-			(at 355.6 46.9899 90)
+			(at 356.87 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18619,7 +18314,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 355.6 49.5299 90)
+			(at 356.87 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18628,7 +18323,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 360.68 48.26 0)
+			(at 361.95 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18637,7 +18332,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_10KR-1002-1_C132649.html"
-			(at 363.22 48.26 0)
+			(at 364.49 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18646,7 +18341,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 353.06 48.26 0)
+			(at 354.33 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18655,7 +18350,7 @@
 			)
 		)
 		(property "LCSC Part" "C132649"
-			(at 365.76 48.26 0)
+			(at 367.03 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18680,7 +18375,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 354.33 91.44 0)
+		(at 356.87 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18689,7 +18384,7 @@
 		(fields_autoplaced yes)
 		(uuid "e766a655-b77d-4a7d-a99a-d6b7afefa6f9")
 		(property "Reference" "#PWR029"
-			(at 354.33 97.79 0)
+			(at 356.87 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18698,7 +18393,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 354.33 96.52 0)
+			(at 356.87 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18706,7 +18401,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 354.33 91.44 0)
+			(at 356.87 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18715,7 +18410,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 354.33 91.44 0)
+			(at 356.87 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18724,7 +18419,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 354.33 91.44 0)
+			(at 356.87 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18752,10 +18447,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e9744699-867c-4ae2-ab08-aeb08c1a810d")
 		(property "Reference" "Q6"
-			(at 379.73 116.8399 0)
+			(at 378.968 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18770,6 +18464,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
@@ -19225,16 +18920,15 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC1206FR-07150RL")
-		(at 304.8 81.28 0)
+		(at 325.12 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f4e110aa-95c7-4ca0-9948-9021c594e45f")
 		(property "Reference" "R15"
-			(at 304.8 74.93 0)
+			(at 325.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19242,15 +18936,16 @@
 			)
 		)
 		(property "Value" "RC1206FR-07150RL"
-			(at 304.8 77.47 0)
+			(at 325.12 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R1206"
-			(at 304.8 88.9 0)
+			(at 325.12 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19259,7 +18954,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/_RC1206FR-07150RL_C137387.html"
-			(at 304.8 91.44 0)
+			(at 325.12 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19268,7 +18963,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 304.8 81.28 0)
+			(at 325.12 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19277,7 +18972,7 @@
 			)
 		)
 		(property "LCSC Part" "C137387"
-			(at 304.8 93.98 0)
+			(at 325.12 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19302,7 +18997,7 @@
 	)
 	(symbol
 		(lib_id "power:VCCQ")
-		(at 346.71 142.24 0)
+		(at 375.92 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19311,7 +19006,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8d9d2ce-0989-42fc-8287-594776a191dd")
 		(property "Reference" "#PWR019"
-			(at 346.71 146.05 0)
+			(at 375.92 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19320,7 +19015,7 @@
 			)
 		)
 		(property "Value" "VCCQ"
-			(at 346.71 137.16 0)
+			(at 375.92 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19328,7 +19023,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 346.71 142.24 0)
+			(at 375.92 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19337,7 +19032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 346.71 142.24 0)
+			(at 375.92 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19346,7 +19041,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCCQ\""
-			(at 346.71 142.24 0)
+			(at 375.92 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
